@@ -1,0 +1,9 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": " SafeSpace AI",
+  "description": "",
+  "prompt": ""
+}
